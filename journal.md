@@ -48,7 +48,18 @@ so again checked for the errors and i have done of just adding the comonents by 
 <img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/50a9d6b3-a816-4138-a826-8dd368418246" />
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/35bb0f27-8788-4154-9b05-ff2dfa63fd9a" />
 
+------
 
-
+# date:19/9
+# time spent:1.5hr
+## description:
+so i have continuing doing my schematics where i left so after undergoing through multiple components which need to be added i have done it and the wiring process was done 
+<img width="675" height="701" alt="image" src="https://github.com/user-attachments/assets/1d473860-6105-47e8-acff-89960cffbec0" />
+<img width="940" height="371" alt="image" src="https://github.com/user-attachments/assets/d68f46a7-aaa2-4879-b670-aa13b5240ef5" />
+sp before going into the pcb section i have checked for the DRC weather everything was wired correct or not , in that process i have gone with multiple errors which lead not to start with hcb there was errors like in the wiring  and not given input , no connect flag was given , and many more so after successfully resolving i completed my schematics completely
+<img width="940" height="658" alt="image" src="https://github.com/user-attachments/assets/a4f822d1-3183-4b48-bc00-941662ac0ab2" />
+now after finishing the schematic the footprint part was left so i have started adding the foot print for the each part and successfully! completed and ready for the pcb editor!
+<img width="940" height="825" alt="image" src="https://github.com/user-attachments/assets/1b87ef2f-f3ec-4d5e-ab9d-80e3f37f85c0" />
+<img width="940" height="454" alt="image" src="https://github.com/user-attachments/assets/765138b9-546e-4429-a913-417889789cc5" />
 
 
