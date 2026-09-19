@@ -7,6 +7,8 @@ firstly i have decided to enlarge my hardware project which give me the best out
 <img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/f60f5f83-9457-46c5-9aa2-4effeaaf42da" />
 <img width="960" height="477" alt="image" src="https://github.com/user-attachments/assets/bb27db9b-0ef7-45ba-a706-624f5f9be956" />
 
+------
+
 # date:19/9
 # time spent:1.5hr
 ## description:
@@ -17,3 +19,16 @@ and also i have added a crystal resonator not exactly same but variation of it ,
 and also i have added these  components to complete the circuit but completely not i have to do it more but to find these components took me time but finding them was a interesting task for me
 <img width="940" height="297" alt="image" src="https://github.com/user-attachments/assets/ba4ebb28-e694-4304-988c-6788ea6bdf05" />
 <img width="1150" height="478" alt="image" src="https://github.com/user-attachments/assets/09679a58-fe68-407c-93c3-78abcb48c4f1" />
+
+------
+
+# date:19/9
+# time spent:1.5hr
+## description:
+so these are the components which i have placed in the schematics and i have connected what ever was possible but while runnich DRC i have got many errors in the connection , resolving was a main task to resolve, 
+<img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/68e71951-bdbc-4ea0-b3ce-0c3172a59560" />
+not i have added some capacitors where they are connected to the Raspberry pi were useful to the circuit , i haved added 7 capacitors to it and the GND where ever required
+<img width="940" height="597" alt="image" src="https://github.com/user-attachments/assets/6598816d-b89a-429f-b40c-d9c16f2af2c0" />
+<img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/d981a89b-b2e8-4506-be63-a7622eee9e53" />
+
+
