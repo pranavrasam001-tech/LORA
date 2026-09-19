@@ -31,4 +31,24 @@ not i have added some capacitors where they are connected to the Raspberry pi we
 <img width="940" height="597" alt="image" src="https://github.com/user-attachments/assets/6598816d-b89a-429f-b40c-d9c16f2af2c0" />
 <img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/d981a89b-b2e8-4506-be63-a7622eee9e53" />
 
+------
+
+# date:19/9
+# time spent:2hr
+## description:
+after completing here i have again done a dun on DRC to check weather everything was right or wrong , as the same it gave me multiple errors as the wiring was over drawn and all random stuff, finally cleared and made a complete stuff 
+<img width="433" height="594" alt="image" src="https://github.com/user-attachments/assets/630eb9a1-e859-4965-a347-fcd6f9298902" />
+ans this is my compltee structure of my SX1262IMLTRT
+<img width="479" height="289" alt="image" src="https://github.com/user-attachments/assets/eb8c3fa3-09f0-40a2-9db1-1f15927b4498" />
+and the main error in the DRC was not adding any flag where the terminals are open so the most time taking was placing all the flag where ever required in the circuit
+<img width="291" height="784" alt="image" src="https://github.com/user-attachments/assets/eee1f5db-f662-49e5-afa9-0a8c4639c2eb" />
+so now i finally added the usb receptable , this i have kept for the sake of brevity not excatly but the one with the same components which took me to search for a long time.
+<img width="884" height="469" alt="image" src="https://github.com/user-attachments/assets/d263bb47-326d-4aec-84cd-033ce1f5ac51" />
+so again checked for the errors and i have done of just adding the comonents by the next journal i will be completing the schematics and start doing the PCB edditor where my creativity comes out....!
+<img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/50a9d6b3-a816-4138-a826-8dd368418246" />
+<img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/35bb0f27-8788-4154-9b05-ff2dfa63fd9a" />
+
+
+
+
 
