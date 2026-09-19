@@ -6,3 +6,14 @@ firstly i have decided to enlarge my hardware project which give me the best out
 <img width="304" height="453" alt="image" src="https://github.com/user-attachments/assets/019635ab-fb40-4d09-a012-2402664c504a" />
 <img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/f60f5f83-9457-46c5-9aa2-4effeaaf42da" />
 <img width="960" height="477" alt="image" src="https://github.com/user-attachments/assets/bb27db9b-0ef7-45ba-a706-624f5f9be956" />
+
+# date:19/9
+# time spent:1.5hr
+## description:
+so after placing the components now i have started connecting the labelling process where the components terminal needs 
+<img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/abeaf13c-8e40-41be-aaa4-a1bf282b09f1" />
+and also i have added a crystal resonator not exactly same but variation of it , but this component took me a much time to search cuz the exact component was not available and i have done a research about it and finally placed this component
+<img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/5aa80901-d33b-404e-9e53-01a83c1e66f0" />
+and also i have added these  components to complete the circuit but completely not i have to do it more but to find these components took me time but finding them was a interesting task for me
+<img width="940" height="297" alt="image" src="https://github.com/user-attachments/assets/ba4ebb28-e694-4304-988c-6788ea6bdf05" />
+<img width="1150" height="478" alt="image" src="https://github.com/user-attachments/assets/09679a58-fe68-407c-93c3-78abcb48c4f1" />
