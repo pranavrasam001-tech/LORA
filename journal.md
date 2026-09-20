@@ -62,4 +62,15 @@ now after finishing the schematic the footprint part was left so i have started 
 <img width="940" height="825" alt="image" src="https://github.com/user-attachments/assets/1b87ef2f-f3ec-4d5e-ab9d-80e3f37f85c0" />
 <img width="940" height="454" alt="image" src="https://github.com/user-attachments/assets/765138b9-546e-4429-a913-417889789cc5" />
 
+------
+
+# date:20/9
+# time spent:2hrs
+## description:
+i have successfully completed in the schematics and started doing my pcb editor where i have imported all the components from the schematics and was soo clumsy and i have created the border box where i have started arranging all the components one by one but in the process i have gout much way difficult to do the connections as the lines need to go in the middle of my components and way difficult but after completing all the i have done the routing in the top layer and finally in all the layers but it took time to do it  as it was soo confusing finally i have done in the pcb editor 
+<img width="940" height="347" alt="image" src="https://github.com/user-attachments/assets/52b354bc-3dd7-4c82-ac23-61fdead38e6f" />
+<img width="731" height="553" alt="image" src="https://github.com/user-attachments/assets/9740eac5-ffef-4409-acfa-6a93f7fd2c60" />
+<img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/39247b73-355b-4210-a060-97215696f637" />
+<img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/2c61bbe6-27f9-4f63-ab2e-99213e024675" />
+
 
