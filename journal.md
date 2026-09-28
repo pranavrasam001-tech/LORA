@@ -30,9 +30,8 @@ so after placing the components now i have started connecting the labelling proc
 
 so these are the components which i have placed in the schematics and i have connected what ever was possible but while runnich DRC i have got many errors in the connection , resolving was a main task to resolve, not i have added some capacitors where they are connected to the Raspberry pi were useful to the circuit , i haved added 7 capacitors to it and the GND where ever required
 ## Images
-<img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/68e71951-bdbc-4ea0-b3ce-0c3172a59560" />
+<img width="1682" height="860" alt="image" src="https://github.com/user-attachments/assets/867eef7f-bc62-4bfe-bf7e-074d31cc8226" />
 
-<img width="940" height="597" alt="image" src="https://github.com/user-attachments/assets/6598816d-b89a-429f-b40c-d9c16f2af2c0" />
 <img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/d981a89b-b2e8-4506-be63-a7622eee9e53" />
 
 ------
@@ -49,9 +48,6 @@ after completing here i have again done a dun on DRC to check weather everything
 <img width="291" height="784" alt="image" src="https://github.com/user-attachments/assets/eee1f5db-f662-49e5-afa9-0a8c4639c2eb" />
 
 <img width="884" height="469" alt="image" src="https://github.com/user-attachments/assets/d263bb47-326d-4aec-84cd-033ce1f5ac51" />
-
-<img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/50a9d6b3-a816-4138-a826-8dd368418246" />
-<img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/35bb0f27-8788-4154-9b05-ff2dfa63fd9a" />
 
 ------
 
