@@ -64,7 +64,8 @@ so i have continuing doing my schematics where i left so after undergoing throug
 <img width="675" height="701" alt="image" src="https://github.com/user-attachments/assets/1d473860-6105-47e8-acff-89960cffbec0" />
 <img width="940" height="371" alt="image" src="https://github.com/user-attachments/assets/d68f46a7-aaa2-4879-b670-aa13b5240ef5" />
 
-<img width="940" height="658" alt="image" src="https://github.com/user-attachments/assets/a4f822d1-3183-4b48-bc00-941662ac0ab2" />
+<img width="687" height="482" alt="image" src="https://github.com/user-attachments/assets/55d9761b-5a56-42db-bf16-6baa4efeec8c" />
+
 
 <img width="940" height="825" alt="image" src="https://github.com/user-attachments/assets/1b87ef2f-f3ec-4d5e-ab9d-80e3f37f85c0" />
 <img width="940" height="454" alt="image" src="https://github.com/user-attachments/assets/765138b9-546e-4429-a913-417889789cc5" />
