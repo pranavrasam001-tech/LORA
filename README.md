@@ -49,6 +49,12 @@ The board combines an RP2040 microcontroller, SX1262 LoRa transceiver, USB Type-
 
 ---
 
+## Images
+
+<img width="940" height="658" alt="image" src="https://github.com/user-attachments/assets/700024cd-d198-4687-87b4-9ad38ce493a7" />
+<img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/c51bb687-882b-473a-b4df-6200cacfb972" />
+
+
 ## Project Files
 
 ```text
@@ -66,3 +72,4 @@ LoRa P
 ├── Drill_PTH_Through.DRL
 ├── Drill_PTH_Through_Via.DRL
 └── How-to-order-PCB.txt
+
