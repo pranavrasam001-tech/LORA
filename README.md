@@ -53,8 +53,41 @@ The board combines an RP2040 microcontroller, SX1262 LoRa transceiver, USB Type-
 <img width="687" height="482" alt="image" src="https://github.com/user-attachments/assets/d04883a6-1dc0-4831-ac01-14bd9c299ca5" />
 
 <img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/c51bb687-882b-473a-b4df-6200cacfb972" />
+<img width="907" height="612" alt="image" src="https://github.com/user-attachments/assets/c84cd3a9-9206-4090-9793-36695dc3713e" />
 
 
+## Bill of Materials (BOM)
+
+| Name | Designator | Quantity | Unit Price (USD) | Total Cost (USD) |
+|---|---|---:|---:|---:|
+| 100nF Capacitor | C1, C2, C13, C14, C15, C16, C17, C18, C19, C20, C21 | 11 | $0.0209 | $0.2299 |
+| 470nF Capacitor | C3 | 1 | $0.0150 | $0.0150 |
+| 1nF Capacitor | C4, C10, C11 | 3 | $0.0100 | $0.0300 |
+| 39pF Capacitor | C5 | 1 | $0.0100 | $0.0100 |
+| 3.3pF Capacitor | C6, C7 | 2 | $0.0100 | $0.0200 |
+| 47nF Capacitor | C8, C9 | 2 | $0.0100 | $0.0200 |
+| 1uF Capacitor | C12, C22 | 2 | $0.0143 | $0.0286 |
+| 10uF Capacitor | C23, C24 | 2 | $0.0300 | $0.0600 |
+| 100nF Capacitor | C25 | 1 | $0.0209 | $0.0209 |
+| 15uH Inductor | L1 | 1 | $0.0500 | $0.0500 |
+| 0900FM15D0039001E RF Filter | L2 | 1 | $0.6070 | $0.6070 |
+| 9.1nH Inductor | L3 | 1 | $0.0300 | $0.0300 |
+| 47nH Inductor | L4 | 1 | $0.0300 | $0.0300 |
+| BLM15AX102SN1D Ferrite Bead | L5 | 1 | $0.0105 | $0.0105 |
+| 100Ω Resistor | R1 | 1 | $0.0100 | $0.0100 |
+| 1kΩ Resistor | R2 | 1 | $0.0100 | $0.0100 |
+| 10kΩ Resistor | R3 | 1 | $0.0100 | $0.0100 |
+| 27.4Ω Resistor | R4 | 1 | $0.0100 | $0.0100 |
+| 22.7Ω Resistor | R5 | 1 | $0.0100 | $0.0100 |
+| 5.1kΩ Resistor | R6, R7 | 2 | $0.0100 | $0.0200 |
+| PE4259-63 RF Switch | U1 | 1 | $1.0686 | $1.0686 |
+| RP2040 Microcontroller | U2 | 1 | $1.0000 | $1.0000 |
+| SX1262IMLTRT LoRa Transceiver | U3 | 1 | $3.2219 | $3.2219 |
+| AP2112K-3.3TRG1(MS) Voltage Regulator | U4 | 1 | $0.0798 | $0.0798 |
+| W25Q128JVSIQ Flash Memory | U5 | 1 | $2.5196 | $2.5196 |
+| TYPE-C-16PBS-1MD USB-C Connector | USB1 | 1 | $0.0619 | $0.0619 |
+| NX3225SA-32.000M-STD-CSR-1 Crystal | X1 | 1 | $0.9681 | $0.9681 |
+| **Total Component Cost (Estimated)** | | **44** | | **$10.15** |
 ## Project Files
 
 ```text
