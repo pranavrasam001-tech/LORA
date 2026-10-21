@@ -78,10 +78,19 @@ i have successfully completed in the schematics and started doing my pcb editor 
 <img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/39247b73-355b-4210-a060-97215696f637" />
 <img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/2c61bbe6-27f9-4f63-ab2e-99213e024675" />
 
+------
 
 # time spent:2hrs
 ## description:
 i have succesfully completed the firmware of this project and ready to ship.
-
 ## Images
 <img width="1412" height="702" alt="image" src="https://github.com/user-attachments/assets/5bdf45e3-0cf7-4144-81de-62aa1cb83c25" />
+
+------
+
+# time spent:1hr
+## description:
+i have updated the PCB as adding the silkscreen images and was looking better now 
+## Images
+<img width="816" height="617" alt="image" src="https://github.com/user-attachments/assets/bf5017bf-b5be-44f0-bef9-d38f144a1b87" />
+<img width="623" height="453" alt="image" src="https://github.com/user-attachments/assets/08fba944-8144-4bb8-a8ee-d57a112232cb" />
