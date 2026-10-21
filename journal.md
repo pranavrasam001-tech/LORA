@@ -25,7 +25,7 @@ so after placing the components now i have started connecting the labelling proc
 ------
 
 # date:19/9
-# time spent:1.5hr
+# time spent:2hrs
 ## description:
 
 so these are the components which i have placed in the schematics and i have connected what ever was possible but while runnich DRC i have got many errors in the connection , resolving was a main task to resolve, not i have added some capacitors where they are connected to the Raspberry pi were useful to the circuit , i haved added 7 capacitors to it and the GND where ever required
