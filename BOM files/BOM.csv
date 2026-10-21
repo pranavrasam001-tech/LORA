@@ -1,4 +1,4 @@
-﻿No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,Unit Price (USD),Total Cost (USD),Price Link,Price Basis
+No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,Unit Price (USD),Total Cost (USD),Price Link,Price Basis
 1,11,100nF,"C1,C2,C13,C14,C15,C16,C17,C18,C19,C20,C21",C0603,100nF,CC0603KRX7R8BB104,YAGEO(国巨),C92490,LCSC,0.0209,0.2299,https://www.lcsc.com/search?q=0603%20100nF%20capacitor,Estimated; verify supplier quote
 2,1,470nF,C3,C0603,470nF,CC0603KRX7R8BB104,YAGEO(国巨),,LCSC,0.0150,0.0150,https://www.lcsc.com/search?q=0603%20470nF%20capacitor,Estimated; verify supplier quote
 3,3,1nF,"C4,C10,C11",C0603,1nF,CC0603KRX7R8BB104,YAGEO(国巨),,LCSC,0.0100,0.0300,https://www.lcsc.com/search?q=0603%201nF%20capacitor,Estimated; verify supplier quote
@@ -26,3 +26,18 @@
 25,1,W25Q128JVSIQ,U5,SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL,,W25Q128JVSIQ,Winbond(华邦),C113767,LCSC,0.9390,0.9390,https://lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q128JVSIQ_C113767.html,Supplier listing
 26,1,TYPE-C-16PBS-1MD,USB1,TYPE-C-SMD_TYPE-C-16PBS-1MD,,TYPE-C-16PBS-1MD,CAX(创都),C51927421,LCSC,0.0619,0.0619,https://www.lcsc.com/product-image/C51927421.html,Supplier listing
 27,1,32MHz,X1,CRYSTAL-SMD_4P-L3.2-W2.5-BL,32MHz,NX3225SA-32.000M-STD-CSR-1,NDK,C1985986,LCSC,0.9681,0.9681,https://www.lcsc.com/search?q=NX3225SA-32.000M-STD-CSR-1,Estimated; verify exact crystal part
+,,,,,,,,,,,,,
+COST SUMMARY,,,,,,,,,,,,,
+28,1,PCB fabrication - estimated 2-layer board; per-board allowance at 5-piece order,PCB-FAB,,,,,,,2.0000,2.0000,,"Estimate only; confirm board size, thickness, copper, finish, quantity and shipping with fabricator"
+29,1,PCBA assembly labor - estimated per board; parts cost counted separately above,PCBA-ASSEMBLY,,,,,,,8.0000,8.0000,,"Estimate only; depends on placement count, package difficulty and assembler"
+30,1,Stencil/setup allocation per board (assumes 5-board batch; approx. $10 batch setup),PCBA-STENCIL-SETUP,,,,,,,2.0000,2.0000,,Estimate allocation; actual setup/stencil charge is usually batch-level
+31,1,Assembly inspection / basic electrical test - estimated per board,PCBA-TEST,,,,,,,1.0000,1.0000,,Estimate only; test scope and fixture costs may change quote
+,,,,,,,,,,,,,
+TOTALS,,,,,,,,,,,,,
+,,Component BOM subtotal per board (items 1-27),,,,,,,,8.5712,8.5712,,Calculated from the component prices supplied in the original BOM
+,,PCB + PCBA fabrication/assembly estimate per board (items 28-31),,,,,,,,13.0000,13.0000,,Illustrative estimate; not a supplier quote
+,,ESTIMATED TOTAL PER ASSEMBLED BOARD,,,,,,,,21.5712,21.5712,,"Component subtotal + estimated PCB/PCBA costs; excludes shipping, taxes, import duties and any price breaks"
+,,,,,,,,,,,,,
+NOTE,,,,,,,,,,,,,
+,,,"PCB/PCBA cost lines are estimates, not confirmed supplier quotations. Replace these values with the fabricator/assembler quote before ordering.",,,,,,,,,,
+,,,"The component quantities and costs in rows 1-27 represent one board/BOM build. PCB/PCBA estimate is also expressed per board, with stencil/setup allocated across an assumed 5-board order.",,,,,,,,,,
