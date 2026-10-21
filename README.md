@@ -51,9 +51,10 @@ The board combines an RP2040 microcontroller, SX1262 LoRa transceiver, USB Type-
 
 ## Images
 <img width="687" height="482" alt="image" src="https://github.com/user-attachments/assets/d04883a6-1dc0-4831-ac01-14bd9c299ca5" />
+<img width="623" height="453" alt="image" src="https://github.com/user-attachments/assets/85d9c086-7d4d-476c-b6bf-a2825f01ed3b" />
 
-<img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/c51bb687-882b-473a-b4df-6200cacfb972" />
-<img width="907" height="612" alt="image" src="https://github.com/user-attachments/assets/c84cd3a9-9206-4090-9793-36695dc3713e" />
+<img width="816" height="617" alt="image" src="https://github.com/user-attachments/assets/3d7fec30-5c60-429c-97e2-27ac1d9b99f6" />
+
 
 
 ## Bill of Materials (BOM)
