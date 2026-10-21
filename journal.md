@@ -79,3 +79,9 @@ i have successfully completed in the schematics and started doing my pcb editor 
 <img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/2c61bbe6-27f9-4f63-ab2e-99213e024675" />
 
 
+# time spent:2hrs
+## description:
+i have succesfully completed the firmware of this project and ready to ship.
+
+## Images
+<img width="1412" height="702" alt="image" src="https://github.com/user-attachments/assets/5bdf45e3-0cf7-4144-81de-62aa1cb83c25" />
