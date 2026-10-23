@@ -37,4 +37,7 @@ No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,S
 ,,"TOTAL PER ASSEMBLED BOARD (excl. shipping, tax, duties)",,,,,,,,,21.0361,21.0361,,
 ,,"JLCPCB QUOTE TOTAL, 5 boards, 23 items (excl. shipping, tax, duties)",,,,,,,,,93.7700,93.7700,,PCB $4.00 + Economic PCBA $89.77 as shown at checkout
 ,,"Parts NOT in quote: L2, U2 (RP2040), X1, R5 - parts cost for 5 boards",,,,,,,,,12.9000,12.9000,,"Zero JLCPCB stock (L2, U2, X1) or no match (R5); extended fee (~$3.09 each) not yet included"
-,,"SHIPPING (JLCPCB checkout, destination + weight dependent)",,,,,,,,,,,,Not confirmed; paste figure from JLCPCB checkout
+,,"SHIPPING - JLCPCB checkout estimate, 0.35 kg, to India",,,,,,,,,9.7800,9.7800,,JLCPCB cart 2026-10-23; final price depends on carrier chosen at checkout
+,,"TOTAL INCL. SHIPPING (before coupon, excl. tax/duties)",,,,,,,,,103.5500,103.5500,,JLCPCB quote $93.77 + shipping $9.78
+,,Coupon applied at checkout,,,,,,,,,-10.0000,-10.0000,,JLCPCB cart 2026-10-23
+,,TOTAL PAYABLE AFTER COUPON (JLCPCB cart subtotal),,,,,,,,,93.5500,93.5500,,"Matches cart Subtotal; excludes parts not in quote (L2, U2, X1, R5)"
