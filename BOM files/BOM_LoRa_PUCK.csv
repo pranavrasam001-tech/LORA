@@ -40,4 +40,4 @@ No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,S
 ,,"SHIPPING - JLCPCB checkout estimate, 0.35 kg, to India",,,,,,,,,9.7800,9.7800,,JLCPCB cart 2026-10-23; final price depends on carrier chosen at checkout
 ,,"TOTAL INCL. SHIPPING (before coupon, excl. tax/duties)",,,,,,,,,103.5500,103.5500,,JLCPCB quote $93.77 + shipping $9.78
 ,,Coupon applied at checkout,,,,,,,,,-10.0000,-10.0000,,JLCPCB cart 2026-10-23
-,,TOTAL PAYABLE AFTER COUPON (JLCPCB cart subtotal),,,,,,,,,93.5500,93.5500,,"Matches cart Subtotal; excludes parts not in quote (L2, U2, X1, R5)"
+,,TOTAL PAYABLE AFTER COUPON (JLCPCB cart subtotal),,,,,,,,,93.5500,93.5500,,"Matches cart Subtotal;"
