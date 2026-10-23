@@ -1,0 +1,42 @@
+﻿No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,Supplier Part,Supplier,Library Type,Unit Price (USD),Total Cost (USD),Price Link,Price Basis
+1,11,100nF,"C1,C2,C13,C14,C15,C16,C17,C18,C19,C20,C21",C0603,100nF,CC0603KRX7R8BB104,YAGEO,C92490,JLCPCB/LCSC,Extended,0.0086,0.0946,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R8BB104/C92490,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+2,1,470nF,C3,C0603,470nF,CL10B474KA8NNNC,Samsung Electro-Mechanics,C1623,JLCPCB/LCSC,Basic,0.0130,0.0130,https://jlcpcb.com/partdetail/1975-CL10B474KA8NNNC/C1623,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+3,3,1nF,"C4,C10,C11",C0603,1nF,CL10B102KB8NNNC,Samsung Electro-Mechanics,C1588,JLCPCB/LCSC,Basic,0.0098,0.0294,https://jlcpcb.com/partdetail/1940-CL10B102KB8NNNC/C1588,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+4,1,39pF,C5,C0603,39pF,CC0603JRNPO9BN390,YAGEO,C107049,JLCPCB/LCSC,Extended,0.0055,0.0055,https://jlcpcb.com/partdetail/YAGEO-CC0603JRNPO9BN390/C107049,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+5,2,3.3pF,"C6,C7",C0603,3.3pF,CC0603CRNPO9BN3R3,YAGEO,C282249,JLCPCB/LCSC,Extended,0.0109,0.0218,https://jlcpcb.com/partdetail/YAGEO-CC0603CRNPO9BN3R3/C282249,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+6,2,47nF,"C8,C9",C0603,47nF,CL10B473KB8NNNC,Samsung Electro-Mechanics,C1622,JLCPCB/LCSC,Basic,0.0077,0.0154,https://jlcpcb.com/partdetail/1974-CL10B473KB8NNNC/C1622,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+7,2,1uF,"C12,C22",C0603,1uF,CL10A105KB8NNNC,Samsung Electro-Mechanics,C15849,JLCPCB/LCSC,Basic,0.0146,0.0292,https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+8,2,10uF,"C23,C24",C0603,10uF,CL10A106KP8NNNC,Samsung Electro-Mechanics,C19702,JLCPCB/LCSC,Basic,0.0272,0.0544,https://jlcpcb.com/partdetail/20411-CL10A106KP8NNNC/C19702,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+9,1,100nF,C25,C0603,100nF,CC0603KRX7R9BB104,YAGEO,C14663,JLCPCB/LCSC,Basic,0.0084,0.0084,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+10,1,15uH,L1,L0603,15uH,MGFL1608F150MT-LF,microgate,C486329,JLCPCB/LCSC,Extended,0.0519,0.0519,https://jlcpcb.com/partdetail/microgate-MGFL1608F150MTLF/C486329,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+11,1,0900FM15D0039001E,L2,FILTER-SMD_10P-L2.0-W1.3-BL,,0900FM15D0039001E,Johanson Dielectrics,C17557877,JLCPCB/LCSC,Extended,0.6460,0.6460,https://jlcpcb.com/partdetail/18687100-0900FM15D0039001E/C17557877,"JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty); JLCPCB stock 0 - needs Global Sourcing/consign, confirm in cart"
+12,1,9.1nH,L3,L0603,9.1nH,VHF160808H9N1JT,FH (Guangdong Fenghua Advanced Tech),C395094,JLCPCB/LCSC,Extended,0.0132,0.0132,https://jlcpcb.com/partdetail/375510-VHF160808H9N1JT/C395094,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+13,1,47nH,L4,L0603,47nH,SDCL1608C47NJTDF,Sunlord,C29683,JLCPCB/LCSC,Extended,0.0195,0.0195,https://jlcpcb.com/partdetail/Sunlord-SDCL1608C47NJTDF/C29683,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+14,1,BLM15AX102SN1D,L5,L0402,,BLM15AX102SN1D,Murata Electronics,C85815,JLCPCB/LCSC,Extended,0.0112,0.0112,https://jlcpcb.com/partdetail/MurataElectronics-BLM15AX102SN1D/C85815,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+15,1,100,R1,R0603,100,0603WAF1000T5E,UNI-ROYAL(Uniroyal Elec),C22775,JLCPCB/LCSC,Basic,0.0023,0.0023,https://jlcpcb.com/partdetail/23502-0603WAF1000T5E/C22775,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+16,1,1K,R2,R0603,1K,0603WAF1001T5E,UNI-ROYAL(Uniroyal Elec),C21190,JLCPCB/LCSC,Basic,0.0018,0.0018,https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+17,1,10K,R3,R0603,10K,0603WAF1002T5E,UNI-ROYAL(Uniroyal Elec),C25804,JLCPCB/LCSC,Basic,0.0016,0.0016,https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+18,1,27.4,R4,R0603,27.4,FRC0603F27R4TS,FOJAN,C5126244,JLCPCB/LCSC,Extended,0.0019,0.0019,https://jlcpcb.com/partdetail/FOJAN-FRC0603F27R4TS/C5126244,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+19,1,22.6,R5,R0603,22.6,RC0603FR-0722R6L,YAGEO,C245938,JLCPCB/LCSC,Extended,0.0020,0.0020,https://www.lcsc.com/product-detail/C245938.html,"22.7 ohm is not a standard value; 22.6 ohm 1% is nearest E96. LCSC listing price (from), re-match on JLCPCB to confirm"
+20,2,5.1K,"R6,R7",R0603,5.1K,0603WAF5101T5E,UNI-ROYAL(Uniroyal Elec),C23186,JLCPCB/LCSC,Basic,0.0015,0.0030,https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+21,1,PE4259-63,U1,SC-70-6_L2.2-W1.3-P0.65-LS2.1-BL,,PE4259-63,pSemi,C470892,JLCPCB/LCSC,Extended,1.2168,1.2168,https://jlcpcb.com/partdetail/pSemi-PE425963/C470892,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+22,1,RP2040,U2,QFN-56_L7.0-W7.0-P0.40-TL-EP4.0,,RP2040,Raspberry Pi,C2961140,JLCPCB/LCSC,Extended,1.5308,1.5308,https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2961140,"JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty); JLCPCB stock 0 - needs Global Sourcing/consign, confirm in cart"
+23,1,SX1262IMLTRT,U3,QFN-24_L4.0-W4.0-P0.50-BL-EP2.6,,SX1262IMLTRT,SEMTECH,C191341,JLCPCB/LCSC,Extended,3.2152,3.2152,https://jlcpcb.com/partdetail/SEMTECH-SX1262IMLTRT/C191341,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+24,1,AP2112K-3.3TRG1(MS),U4,SOT-23-5_L2.9-W1.6-P0.95-LS2.7-BR,,AP2112K-3.3TRG1(MS),MSKSEMI,C22365427,JLCPCB/LCSC,Extended,0.0795,0.0795,https://jlcpcb.com/partdetail/MSKSEMI-AP2112K_3_3TRG1_MS/C22365427,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+25,1,W25Q128JVSIQ,U5,SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL,,W25Q128JVSIQ,Winbond Elec,C97521,JLCPCB/LCSC,Basic,2.8522,2.8522,https://jlcpcb.com/partdetail/WinbondElec-W25Q128JVSIQ/C97521,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+26,1,TYPE-C-16PBS-1MD,USB1,TYPE-C-SMD_TYPE-C-16PBS-1MD,,TYPE-C-16PBS-1MD,CAX,C51927421,JLCPCB/LCSC,Extended,0.0625,0.0625,https://jlcpcb.com/partdetail/CAX-TYPE_C_16PBS1MD/C51927421,JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty)
+27,1,32MHz,X1,CRYSTAL-SMD_4P-L3.2-W2.5-BL,32MHz,NX3225SA-32.000M-STD-CSR-1,NDK,C1985986,JLCPCB/LCSC,Extended,0.4010,0.4010,https://jlcpcb.com/partdetail/NDK-NX3225SA_32_000M_STD_CSR1/C1985986,"JLCPCB BOM-tool match 2026-10-23 (unit = line total / order qty); JLCPCB stock 0 - needs Global Sourcing/consign, confirm in cart"
+
+"COST SUMMARY (per board, 5-board order)"
+28,1,"PCB fabrication - 2 layer, 58.5 x 45.0 mm, 5 pcs",PCB-FABRICATION,,,,,,JLCPCB,,0.4000,0.4000,,JLCPCB published: $2 for 5 pcs 2-layer under 100x100 mm
+29,1,PCBA setup fee - Economic,PCBA-SETUP-FEE,,,,,,JLCPCB,,1.6360,1.6360,,JLCPCB fee schedule; batch fee divided over 5 boards
+30,1,PCBA stencil fee - Economic,PCBA-STENCIL-FEE,,,,,,JLCPCB,,0.3060,0.3060,,JLCPCB fee schedule; batch fee divided over 5 boards
+31,1,Extended-part feeder loading - 16 unique extended parts x $3.07,EXTENDED-PART-FEEDER,,,,,,JLCPCB,,9.8240,9.8240,,JLCPCB fee schedule; batch fee divided over 5 boards
+32,1,SMT assembly - 203 joints/board x $0.0016,SMT-ASSEMBLY,,,,,,JLCPCB,,0.3248,0.3248,,JLCPCB fee schedule per solder joint
+
+TOTALS
+,,Component BOM subtotal per board,,,,,,,,,10.3841,10.3841,,Sum of rows 1-27
+,,PCB + PCBA fees per board,,,,,,,,,12.4908,12.4908,,From JLCPCB published fee schedule
+,,"TOTAL PER ASSEMBLED BOARD (excl. shipping, tax, duties)",,,,,,,,,22.8749,22.8749,,
+,,"TOTAL FOR 5 BOARDS (excl. shipping, tax, duties)",,,,,,,,,115.89,115.89,,"Parts at JLCPCB order quantities (incl. spare overage, 53.4006 from matching file + R5 x20) + all batch fees"
+,,"SHIPPING (JLCPCB checkout, destination + weight dependent)",,,,,,,,,,,,Not computable offline: paste the figure shown at JLCPCB checkout after uploading the Gerber
