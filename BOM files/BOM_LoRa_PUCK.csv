@@ -26,13 +26,13 @@ No.,Quantity,Comment,Designator,Footprint,Value,Manufacturer Part,Manufacturer,S
 25,1,W25Q128JVSIQ,U5,SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL,,W25Q128JVSIQ,Winbond Elec,C97521,JLCPCB/LCSC,Basic,2.8522,2.8522,https://jlcpcb.com/partdetail/WinbondElec-W25Q128JVSIQ/C97521,JLCPCB BOM-tool match 2026-10-23
 26,1,TYPE-C-16PBS-1MD,USB1,TYPE-C-SMD_TYPE-C-16PBS-1MD,,TYPE-C-16PBS-1MD,CAX,C51927421,JLCPCB/LCSC,Extended,0.0625,0.0625,https://jlcpcb.com/partdetail/CAX-TYPE_C_16PBS1MD/C51927421,JLCPCB BOM-tool match 2026-10-23
 27,1,32MHz,X1,CRYSTAL-SMD_4P-L3.2-W2.5-BL,32MHz,NX3225SA-32.000M-STD-CSR-1,NDK,C1985986,JLCPCB/LCSC,Extended,0.4010,0.4010,https://jlcpcb.com/partdetail/NDK-NX3225SA_32_000M_STD_CSR1/C1985986,Stock reported as 0; confirm sourcing in cart
-28,1,PCB fabrication - 2 layer, 58.5 x 45.0 mm, 5 pcs,PCB-FABRICATION,,,,,,JLCPCB,,0.4000,0.4000,,Estimated allocation per board
+28,1,"PCB fabrication - 2 layer, 58.5 x 45.0 mm, 5 pcs",PCB-FABRICATION,,,,,,JLCPCB,,0.4000,0.4000,,Estimated allocation per board
 29,1,PCBA setup fee - Economic,PCBA-SETUP-FEE,,,,,,JLCPCB,,1.6360,1.6360,,Batch fee divided over 5 boards
 30,1,PCBA stencil fee - Economic,PCBA-STENCIL-FEE,,,,,,JLCPCB,,0.3060,0.3060,,Batch fee divided over 5 boards
 31,1,Extended-part feeder loading - 16 unique extended parts x $3.07,EXTENDED-PART-FEEDER,,,,,,JLCPCB,,9.8240,9.8240,,Estimated batch fee allocation per board
 32,1,SMT assembly - 203 joints/board x $0.0016,SMT-ASSEMBLY,,,,,,JLCPCB,,0.3248,0.3248,,Based on supplied fee calculation
-,,,Component BOM subtotal per board,,,,,,,,,10.3841,10.3841,,Sum of rows 1-27
-,,,PCB + PCBA fees per board,,,,,,,,,12.4908,12.4908,,Manufacturing and assembly fee estimate
-,,TOTAL PER ASSEMBLED BOARD (excl. shipping, tax, duties),,,,,,,,,22.8749,22.8749,,
-,,TOTAL FOR 5 BOARDS (excl. shipping, tax, duties),,,,,,,,,115.89,115.89,,Parts at JLCPCB order quantities and all batch fees
-,,SHIPPING (JLCPCB checkout, destination + weight dependent),,,,,,,,,,,,Not confirmed; check JLCPCB checkout
+,,Component BOM subtotal per board,,,,,,,,,10.3841,10.3841,,Sum of rows 1-27
+,,PCB + PCBA fees per board,,,,,,,,,12.4908,12.4908,,Manufacturing and assembly fee estimate
+,,"TOTAL PER ASSEMBLED BOARD (excl. shipping, tax, duties)",,,,,,,,,22.8749,22.8749,,
+,,"TOTAL FOR 5 BOARDS (excl. shipping, tax, duties)",,,,,,,,,115.89,115.89,,Parts at JLCPCB order quantities and all batch fees
+,,"SHIPPING (JLCPCB checkout, destination + weight dependent)",,,,,,,,,,,,Not confirmed; check JLCPCB checkout
